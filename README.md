@@ -5,9 +5,9 @@
 
 [第一章 网络基础知识](https://github.com/tangming579/TCP-IP/blob/master/note/1.%E7%AC%AC%E4%B8%80%E7%AB%A0%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
 
-第二章 TCP/IP基础知识
+[第二章 TCP/IP基础知识](https://github.com/tangming579/TCP-IP/blob/master/note/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0TCP-IP%E5%9F%BA%E7%A1%80.md)
 
-第三章 数据链路
+[第三章 数据链路](https://github.com/tangming579/TCP-IP/blob/master/note/6.%E7%AC%AC%E5%85%AD%E7%AB%A0TCP%E4%B8%8EUDP.md)
 
 第四章 IP协议
 
