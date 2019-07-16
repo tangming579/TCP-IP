@@ -7,13 +7,13 @@
 
 [第二章 TCP/IP基础知识](https://github.com/tangming579/TCP-IP/blob/master/note/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0TCP-IP%E5%9F%BA%E7%A1%80.md)
 
-[第三章 数据链路](https://github.com/tangming579/TCP-IP/blob/master/note/6.%E7%AC%AC%E5%85%AD%E7%AB%A0TCP%E4%B8%8EUDP.md)
+[第三章 数据链路](https://github.com/tangming579/TCP-IP/blob/master/note/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF.md)
 
-第四章 IP协议
+[第四章 IP协议](https://github.com/tangming579/TCP-IP/blob/master/note/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0IP%E5%8D%8F%E8%AE%AE.md)
 
-第五章 IP协议相关技术
+[第五章 IP协议相关技术](https://github.com/tangming579/TCP-IP/blob/master/note/5.%E7%AC%AC%E4%BA%94%E7%AB%A0IP%E5%8D%8F%E8%AE%AE%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF.md)
 
-第六章 TCP与UDP
+[第六章 TCP与UDP](https://github.com/tangming579/TCP-IP/blob/master/note/6.%E7%AC%AC%E5%85%AD%E7%AB%A0TCP%E4%B8%8EUDP.md)
 
 第七章 路由协议
 
