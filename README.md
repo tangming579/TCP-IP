@@ -19,4 +19,4 @@
 
 [第八章 应用协议](https://github.com/tangming579/TCP-IP/blob/master/note/8.%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E5%BA%94%E7%94%A8%E5%8D%8F%E8%AE%AE.md)
 
-第九章 网络安全
+[附加：概念详解](<https://github.com/tangming579/TCP-IP/blob/master/note/10.%E9%99%84%E5%8A%A0%20%E5%85%B6%E4%BB%96%E6%A6%82%E5%BF%B5.md>)
